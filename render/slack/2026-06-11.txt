@@ -1,0 +1,73 @@
+Lumière Beauty Co. — Daily Sales Flash
+Thursday, June 11, 2026
+FY2026 W19 · fiscal FY26-P05 · sent Friday, June 12, 2026
+
+  ------------------------------------------------------------
+  Net sales     $186.6K
+  Comp          +11.0%   (week-aligned, vs Thu Jun 12, 2025)
+  Plan          101.6%   (+$2.9K vs plan)
+  Transactions  2,660   (comp +9.4%)
+  ------------------------------------------------------------
+
+Thu Jun 11 net sales were $186.6K, comp +11.0% against the day-aligned LY (Thu Jun 12, 2025), plan attainment 101.6%. Lumiere Beacon Court took $649 off the comp (−9.3%); Lumiere Cypress Crossing cost a further $396; E-commerce was the bright spot at +$13.1K (+35.2%).
+
+FOCUS — what moved it
+  v Lumiere Beacon Court −$649 vs LY (−9.3%) — Northeast.
+  v Lumiere Cypress Crossing −$396 vs LY (−10.9%) — Southwest.
+  v Lumiere Alamo Heights Market −$302 vs LY (−4.3%) — Southwest.
+  ^ E-commerce +$13.1K vs LY (+35.2%).
+  · All other (20 entities) +$5.5K
+  Named + all other = +$17.3K, the headline comp gap, to the cent.
+
+COMPLETENESS
+  25 of 25 stores reported (100.0% of expected). Posted sales 92.3% of the trailing-4 same-weekday
+  average. Missing stores are excluded, never zeroed.
+
+TO DATE
+  WTD  Sun Jun 7 – Thu Jun 11    $878.7K   comp    +5.1%   plan  100.3%
+  MTD  Sun May 31 – Thu Jun 11     $2.27M   comp    +5.8%   plan  100.0%
+  YTD  Sun Feb 1 – Thu Jun 11    $26.19M   comp    +5.8%   plan  100.1%
+
+BASKET
+  Transactions  2,660      (comp +9.4%)
+  Units         6,861     
+  AOV           $70.15     AUR $27.20 · UPT 2.58
+
+BY CHANNEL
+  Stores            $136.3K   comp    +3.5%   plan   98.9%   posted 25/25
+  E-commerce         $50.3K   comp   +35.2%   plan  109.5%   posted 1/1
+
+BY REGION
+  Northeast          $30.3K   comp    +0.2%   plan   96.8%   posted 6/6
+  Southeast          $33.3K   comp    +4.5%   plan   98.2%   posted 6/6
+  Midwest            $20.8K   comp    +0.6%   plan   97.9%   posted 5/5
+  Southwest          $19.4K   comp    +2.1%   plan  100.4%   posted 4/4
+  West               $32.6K   comp   +11.7%   plan  101.5%   posted 4/4
+  E-commerce         $50.3K   comp   +35.2%   plan  109.5%   posted 1/1
+
+E-COMMERCE (BR-4)
+  Demand $50.3K (+35.2%) · shipped $50.1K (+33.7%) · returns $4.3K
+  Headline uses demand (ordered); this day is not yet matured. Settled return rate 7.3%.
+
+TRAILING 14 DAYS (FRI MAY 29 – THU JUN 11)
+  Southwest      LY    $290.6K  TY    $298.3K      +$7.7K     +2.7%
+  Midwest        LY    $312.9K  TY    $324.2K     +$11.3K     +3.6%
+  Northeast      LY    $467.5K  TY    $483.6K     +$16.1K     +3.5%
+  West           LY    $308.6K  TY    $325.7K     +$17.1K     +5.5%
+  Southeast      LY    $504.7K  TY    $524.7K     +$19.9K     +3.9%
+  E-commerce     LY    $634.3K  TY    $699.3K     +$65.0K    +10.3%
+
+DISCLOSURES
+BR-2 In total sales but not in comp — fewer than 13 full fiscal periods of
+     trading: Lumiere Cascade Commons (LB-023, opened Mon Dec 1, 2025),
+     Lumiere Silver Mesa Mall (LB-025, opened Fri Aug 1, 2025).
+BR-4 E-commerce comp is demand-based day-of (orders placed, not shipped).
+     Demand $50.3K vs shipped $50.1K; the day matures after 3 days and the
+     archive shows both without rewriting this flash.
+BR-4 Settled return rate is computed on matured days only; Thu Jun 11,
+     2026 is not yet matured and is excluded from it.
+BR-5 Every figure on this flash is computed once in the metric catalog and
+     rendered to all four surfaces from one object. Email, Slack, print
+     and the archive cannot disagree.
+
+Generated from seeded data for the morning of Friday, June 12, 2026. Demo build.

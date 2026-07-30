@@ -1,0 +1,12 @@
+# Generated database — rebuild with: python3 seed.py
+flash.db
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# here.now local state (contains claim tokens)
+.herenow/

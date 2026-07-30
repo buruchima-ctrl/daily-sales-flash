@@ -1,0 +1,81 @@
+Lumière Beauty Co. — Daily Sales Flash
+Sunday, July 12, 2026
+FY2026 W24 · fiscal FY26-P06 · sent Monday, July 13, 2026
+
+  ------------------------------------------------------------
+  Net sales     $202.2K
+  Comp          +3.3%   (week-aligned, vs Sun Jul 13, 2025)
+  Plan          99.8%   (−$349 vs plan)
+  Transactions  2,894   (comp +2.8%)
+  ------------------------------------------------------------
+
+Sun Jul 12 net sales were $202.2K, comp +3.3% against the day-aligned LY (Sun Jul 13, 2025), plan attainment 99.8%. Southeast region took $3.4K off the comp (−8.9%), 69% of it from Lumiere Sunset Terrace and Lumiere Palmetto Landing; Lumiere Riverbend Square cost a further $360; E-commerce was the bright spot at +$5.3K (+11.1%).
+
+FOCUS — what moved it
+  v Southeast region −$3.4K vs LY (−8.9%) — Lumiere Sunset Terrace and Lumiere Palmetto Landing drove 69% of it.
+      Lumiere Sunset Terrace −$1.3K (−27.3%)
+      Lumiere Palmetto Landing −$1.0K (−13.0%)
+  v Lumiere Riverbend Square −$360 vs LY (−7.5%) — Midwest.
+  v Lumiere Copper Row −$238 vs LY (−3.7%) — Midwest.
+  ^ E-commerce +$5.3K vs LY (+11.1%).
+  · All other (14 entities) +$4.7K
+  Named + all other = +$6.1K, the headline comp gap, to the cent.
+
+COMPLETENESS
+  24 of 24 stores reported (100.0% of expected). Posted sales 99.2% of the trailing-4 same-weekday
+  average. Missing stores are excluded, never zeroed.
+
+TO DATE
+  WTD  Sun Jul 12 – Sun Jul 12    $202.2K   comp    +3.3%   plan   99.8%
+  MTD  Sun Jul 5 – Sun Jul 12     $1.56M   comp    +3.6%   plan   98.4%
+  YTD  Sun Feb 1 – Sun Jul 12    $32.41M   comp    +5.5%   plan   99.9%
+
+BASKET
+  Transactions  2,894      (comp +2.8%)
+  Units         7,468     
+  AOV           $69.88     AUR $27.08 · UPT 2.58
+
+BY CHANNEL
+  Stores            $149.0K   comp    +0.6%   plan   98.8%   posted 24/24
+  E-commerce         $53.2K   comp   +11.1%   plan  102.7%   posted 1/1
+
+BY REGION
+  Northeast          $35.1K   comp    +4.0%   plan   99.4%   posted 6/6
+  Southeast          $34.5K   comp    −8.9%   plan   90.4%   posted 6/6
+  Midwest            $19.1K   comp    −1.5%   plan   98.7%   posted 4/4
+  Southwest          $22.6K   comp   +10.7%   plan  103.9%   posted 4/4
+  West               $37.7K   comp    +3.7%   plan  104.2%   posted 4/4
+  E-commerce         $53.2K   comp   +11.1%   plan  102.7%   posted 1/1
+
+E-COMMERCE (BR-4)
+  Demand $53.2K (+11.1%) · shipped $52.8K (+9.6%) · returns $3.4K
+  Headline uses demand (ordered); this day is not yet matured. Settled return rate 7.3%.
+
+TRAILING 14 DAYS (MON JUN 29 – SUN JUL 12)
+  Southwest      LY    $294.8K  TY    $302.5K      +$7.6K     +2.6%
+  Midwest        LY    $264.7K  TY    $275.3K     +$10.7K     +4.0%
+  Southeast      LY    $513.1K  TY    $525.4K     +$12.3K     +2.4%
+  West           LY    $314.2K  TY    $327.4K     +$13.2K     +4.2%
+  Northeast      LY    $474.4K  TY    $490.7K     +$16.3K     +3.4%
+  E-commerce     LY    $643.5K  TY    $705.7K     +$62.2K     +9.7%
+
+MONDAY TRADE RECAP — week Sun Jul 5 – Sat Jul 11
+  Net $1.36M · comp +3.6% · plan 98.2%
+  FY26-P06: $3.98M of plan left over 20 selling days = $199.0K a day.
+
+DISCLOSURES
+BR-2 Excluded from comp on both sides — closed for remodel: Lumiere
+     Lakeview Arcade (LB-013, opened Thu Sep 1, 2016).
+BR-2 In total sales but not in comp — fewer than 13 full fiscal periods of
+     trading: Lumiere Cascade Commons (LB-023, opened Mon Dec 1, 2025),
+     Lumiere Silver Mesa Mall (LB-025, opened Fri Aug 1, 2025).
+BR-4 E-commerce comp is demand-based day-of (orders placed, not shipped).
+     Demand $53.2K vs shipped $52.8K; the day matures after 3 days and the
+     archive shows both without rewriting this flash.
+BR-4 Settled return rate is computed on matured days only; Sun Jul 12,
+     2026 is not yet matured and is excluded from it.
+BR-5 Every figure on this flash is computed once in the metric catalog and
+     rendered to all four surfaces from one object. Email, Slack, print
+     and the archive cannot disagree.
+
+Generated from seeded data for the morning of Monday, July 13, 2026. Demo build.

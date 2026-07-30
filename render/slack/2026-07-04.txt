@@ -1,0 +1,84 @@
+Lumière Beauty Co. — Daily Sales Flash
+Saturday, July 4, 2026
+FY2026 W22 · fiscal FY26-P05 · sent Sunday, July 5, 2026
+
+  ------------------------------------------------------------
+  Net sales     $358.4K
+  Comp          +25.7%   (holiday-aligned, vs Fri Jul 4, 2025)
+  Plan          96.8%   (−$11.9K vs plan)
+  Transactions  5,139   (comp +25.6%)
+  ------------------------------------------------------------
+
+HOLIDAY ALIGNMENT — leading comp +25.7% is against Fri Jul 4, 2025 (same holiday last
+year). Raw week-aligned (Sat Jul 5, 2025) reads +42.0%. Adjusted leads; both stated.
+
+Sat Jul 4 net sales were $358.4K, comp +25.7% against the same holiday last year (Fri Jul 4, 2025), plan attainment 96.8%, versus +42.0% on the raw week-aligned comparison. E-commerce was the bright spot at +$20.3K (+30.5%).
+
+FOCUS — what moved it
+  ^ E-commerce +$20.3K vs LY (+30.5%).
+  · All other (22 entities) +$48.2K
+  Named + all other = +$68.4K, the headline comp gap, to the cent.
+
+COMPLETENESS
+  24 of 24 stores reported (100.0% of expected). Posted sales 131.9% of the trailing-4 same-weekday
+  average. Missing stores are excluded, never zeroed.
+
+TO DATE
+  WTD  Sun Jun 28 – Sat Jul 4     $1.44M   comp    +5.6%   plan   99.3%
+  MTD  Sun May 31 – Sat Jul 4     $6.92M   comp    +5.2%   plan   99.5%
+  YTD  Sun Feb 1 – Sat Jul 4    $30.84M   comp    +5.7%   plan  100.0%
+
+BASKET
+  Transactions  5,139      (comp +25.6%)
+  Units         13,312    
+  AOV           $69.74     AUR $26.92 · UPT 2.59
+
+BY CHANNEL
+  Stores            $271.6K   comp   +24.1%   plan   98.5%   posted 24/24
+  E-commerce         $86.8K   comp   +30.5%   plan   91.7%   posted 1/1
+
+BY REGION
+  Northeast          $61.8K   comp   +21.7%   plan   95.8%   posted 6/6
+  Southeast          $70.0K   comp   +26.8%   plan  100.3%   posted 6/6
+  Midwest            $36.0K   comp   +23.3%   plan  101.6%   posted 4/4
+  Southwest          $38.6K   comp   +28.0%   plan   97.0%   posted 4/4
+  West               $65.2K   comp   +20.8%   plan   98.6%   posted 4/4
+  E-commerce         $86.8K   comp   +30.5%   plan   91.7%   posted 1/1
+
+E-COMMERCE (BR-4)
+  Demand $86.8K (+49.9%) · shipped $86.1K (+50.6%) · returns $6.3K
+  Headline uses demand (ordered); this day is not yet matured. Settled return rate 7.4%.
+
+TRAILING 14 DAYS (SUN JUN 21 – SAT JUL 4)
+  Southwest      LY    $293.7K  TY    $300.0K      +$6.3K     +2.1%
+  Midwest        LY    $261.1K  TY    $268.8K      +$7.7K     +3.0%
+  Northeast      LY    $472.9K  TY    $483.0K     +$10.1K     +2.1%
+  West           LY    $311.4K  TY    $323.0K     +$11.7K     +3.8%
+  Southeast      LY    $506.8K  TY    $531.6K     +$24.7K     +4.9%
+  E-commerce     LY    $634.3K  TY    $704.7K     +$70.3K    +11.1%
+
+DISCLOSURES
+BR-1 Holiday alignment in effect (July 4). The comp above compares Sat Jul
+     4, 2026 with Fri Jul 4, 2025, the same holiday last year. The
+     week-aligned comparison (Sat Jul 5, 2025) reads +42.0% and is shown
+     for reference only.
+BR-1 Holiday alignment buys the holiday and gives up the weekday: July 4
+     falls on a Saturday this year and a Friday last year, so part of the
+     movement above is the weekday, not the trade. The week-aligned figure
+     keeps the weekday and gives up the holiday. Both are shown because
+     neither is complete on its own.
+BR-2 Excluded from comp on both sides — closed for remodel: Lumiere
+     Lakeview Arcade (LB-013, opened Thu Sep 1, 2016).
+BR-2 In total sales but not in comp — fewer than 13 full fiscal periods of
+     trading: Lumiere Cascade Commons (LB-023, opened Mon Dec 1, 2025),
+     Lumiere Silver Mesa Mall (LB-025, opened Fri Aug 1, 2025).
+BR-4 E-commerce comp is demand-based day-of (orders placed, not shipped).
+     Demand $86.8K vs shipped $86.1K; the day matures after 3 days and the
+     archive shows both without rewriting this flash.
+BR-4 Settled return rate is computed on matured days only; Sat Jul 4, 2026
+     is not yet matured and is excluded from it.
+BR-5 Every figure on this flash is computed once in the metric catalog and
+     rendered to all four surfaces from one object. Email, Slack, print
+     and the archive cannot disagree.
+
+Generated from seeded data for the morning of Sunday, July 5, 2026. Demo build.

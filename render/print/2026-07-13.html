@@ -1,0 +1,111 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Flash one-pager — Monday, July 13, 2026</title>
+<style>
+:root{
+  --paper:#FFFFFF; --ink:#1E2B38; --soft:#55636F; --rule:#C9C3B6;
+  --gold:#8A6416; --blue:#2C5F8A; --calc:#2E7D5B; --bad:#A33A2A;
+  --display:'Avenir Next',Avenir,'Segoe UI',Helvetica,sans-serif;
+  --body:Charter,'Iowan Old Style',Georgia,serif;
+  --data:ui-monospace,'SF Mono',Menlo,Consolas,monospace;
+}
+/* Every size below is set against a budget, not a taste: Letter portrait at
+   0.5in margins leaves a 7.5 x 10in box, and 10in is 960px at 96dpi. The
+   fullest day in the archive — 2026-07-23, which carries an incompleteness
+   band, an escalation band and seven disclosures — has to fit inside that.
+   Loosen any of these and check `.sheet` height at width:7.5in before
+   shipping; a handout that silently spills onto a second page loses its
+   disclosures, which are the half nobody would print on purpose. */
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:#EEEBE4;color:var(--ink);
+  font-family:var(--body);line-height:1.32;}
+.sheet{width:8.5in;min-height:11in;margin:16px auto;padding:0.5in;
+  background:var(--paper);box-shadow:0 1px 4px rgba(0,0,0,.18);}
+h1{font-family:var(--display);font-size:17pt;font-weight:600;margin:0;line-height:1.15;}
+.eyebrow{font-family:var(--display);font-size:7.5pt;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--soft);}
+.meta{font-family:var(--data);font-size:7.5pt;color:var(--soft);margin-top:2px;}
+hr{border:0;border-top:1.5pt solid var(--ink);margin:6px 0 8px;}
+.tiles{display:table;width:100%;margin-bottom:8px;}
+.tile{display:table-cell;width:33.33%;padding-right:12px;vertical-align:top;}
+.tile .v{font-family:var(--data);font-size:18pt;font-weight:600;
+  font-variant-numeric:tabular-nums;line-height:1.1;}
+.tile .s{font-family:var(--data);font-size:7pt;color:var(--soft);}
+.bad{color:var(--bad)} .good{color:var(--calc)}
+.basket{font-family:var(--data);font-size:7.5pt;color:var(--soft);
+  border-top:.5pt solid var(--rule);border-bottom:.5pt solid var(--rule);
+  padding:3px 0;margin:0 0 7px;}
+.basket b{font-family:var(--data);color:var(--ink);font-weight:600;
+  font-variant-numeric:tabular-nums;}
+.narr{font-size:9pt;line-height:1.38;margin:0 0 8px;}
+.band{border-left:2.5pt solid var(--gold);background:#FAF4E6;padding:5px 7px;
+  margin:0 0 6px;font-size:8pt;}
+.band.alert{border-left-color:var(--bad);background:#FBEDEA;}
+.band .t{font-family:var(--display);font-size:7pt;letter-spacing:.1em;
+  text-transform:uppercase;font-weight:700;}
+h2{font-family:var(--display);font-size:8pt;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--soft);font-weight:600;
+  border-top:.75pt solid var(--rule);padding-top:4px;margin:7px 0 4px;}
+table{width:100%;border-collapse:collapse;font-size:8pt;}
+th{font-family:var(--display);font-size:7pt;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--soft);text-align:right;font-weight:600;
+  padding:0 0 2px;border-bottom:.75pt solid var(--rule);}
+th:first-child{text-align:left}
+td{font-family:var(--data);font-variant-numeric:tabular-nums;text-align:right;
+  padding:2px 0;border-bottom:.5pt solid var(--rule);}
+td:first-child{font-family:var(--body);text-align:left}
+ul.focus{list-style:none;margin:0;padding:0;font-size:8.5pt;}
+ul.focus li{padding:2px 0;border-bottom:.5pt solid var(--rule);}
+ul.focus .mk{font-weight:700;}
+ul.focus .rc{font-family:var(--data);font-size:7pt;color:var(--soft);
+  padding-left:12px;display:block;}
+.recon{font-family:var(--data);font-size:7.5pt;color:var(--calc);padding-top:3px;}
+.disc{font-size:7.5pt;line-height:1.3;color:var(--ink);margin:0 0 2px;}
+.disc b{font-family:var(--data);color:var(--gold);font-weight:600;}
+.foot{font-family:var(--data);font-size:7pt;color:var(--soft);
+  border-top:.75pt solid var(--rule);margin-top:8px;padding-top:4px;}
+.cols{display:table;width:100%;} .col{display:table-cell;width:50%;vertical-align:top;}
+.col:first-child{padding-right:14px;}
+@media print{
+  @page{size:letter portrait;margin:0.5in;}
+  html,body{background:#fff;}
+  .sheet{width:auto;min-height:0;margin:0;padding:0;box-shadow:none;}
+  .noprint{display:none}
+}
+</style></head><body><div class="sheet">
+<div class="eyebrow">Lumière Beauty Co. · Daily Sales Flash · trade meeting handout</div>
+<h1>Monday, July 13, 2026</h1>
+<div class="meta">FY2026 W24 · fiscal FY26-P06 · generated for the morning of Tuesday, July 14, 2026</div>
+<hr>
+<div class="tiles">
+<div class="tile"><div class="eyebrow">Net sales</div><div class="v ">$157.7K</div><div class="s">$157,748.78</div></div>
+<div class="tile"><div class="eyebrow">Comp week-aligned</div><div class="v good">+2.7%</div><div class="s">vs Mon Jul 14, 2025 · gap +$3.9K</div></div>
+<div class="tile"><div class="eyebrow">Plan attainment</div><div class="v bad">96.2%</div><div class="s">−$6.3K vs plan $164.0K</div></div>
+</div>
+<div class="basket">Transactions <b>2,256</b> (comp +1.6%) · units <b>5,825</b> · AOV <b>$69.92</b> · UPT <b>2.58</b> · AUR <b>$27.08</b></div>
+<p class="narr">Mon Jul 13 net sales were $157.7K, comp +2.7% against the day-aligned LY (Mon Jul 14, 2025), plan attainment 96.2%. Lumiere Sunset Terrace took $1.2K off the comp (−30.9%); Lumiere Magnolia Park cost a further $632; E-commerce was the bright spot at +$6.4K (+18.7%).</p>
+<h2>Focus — what moved it</h2><ul class="focus">
+<li><span class="mk bad">▼</span> Lumiere Sunset Terrace −$1.2K vs LY (−30.9%) — Southeast.</li>
+<li><span class="mk bad">▼</span> Lumiere Magnolia Park −$632 vs LY (−11.7%) — Southeast.</li>
+<li><span class="mk bad">▼</span> Lumiere Alamo Heights Market −$549 vs LY (−8.6%) — Southwest.</li>
+<li><span class="mk good">▲</span> E-commerce +$6.4K vs LY (+18.7%).</li>
+<li>All other (19 entities) −$145</li>
+</ul>
+<div class="recon">Named contributions + all other = +$3.9K, the headline comp gap, to the cent (BR-6).</div>
+<div class="cols"><div class="col">
+<h2>Week, period, year to date</h2>
+<table><tr><th></th><th>Net sales</th><th>Comp</th><th>Plan</th></tr><tr><td class="">Week to date</td><td class="">$360.0K</td><td class="">+3.1%</td><td class="">98.2%</td></tr><tr><td class="">Period to date</td><td class="">$1.72M</td><td class="">+3.5%</td><td class="">98.2%</td></tr><tr><td class="">Year to date</td><td class="">$32.56M</td><td class="">+5.5%</td><td class="">99.9%</td></tr></table>
+<h2>By channel</h2>
+<table><tr><th>Channel</th><th>Net sales</th><th>Comp</th><th>Posted</th></tr><tr><td class="">Stores</td><td class="">$116.9K</td><td class="bad">−2.3%</td><td class="">24/24</td></tr><tr><td class="">E-commerce</td><td class="">$40.9K</td><td class="">+18.7%</td><td class="">1/1</td></tr></table>
+</div><div class="col">
+<h2>By region</h2>
+<table><tr><th>Region</th><th>Net sales</th><th>Comp</th><th>Plan</th></tr><tr><td class="">Northeast</td><td class="">$28.2K</td><td class="">+2.3%</td><td class="">98.7%</td></tr><tr><td class="">Southeast</td><td class="">$28.1K</td><td class="bad">−7.4%</td><td class="">90.9%</td></tr><tr><td class="">Midwest</td><td class="">$15.4K</td><td class="bad">−3.1%</td><td class="">98.3%</td></tr><tr><td class="">Southwest</td><td class="">$17.5K</td><td class="">+1.6%</td><td class="">99.1%</td></tr><tr><td class="">West</td><td class="">$27.7K</td><td class="bad">−3.9%</td><td class="">94.5%</td></tr><tr><td class="">E-commerce</td><td class="">$40.9K</td><td class="">+18.7%</td><td class="">97.5%</td></tr></table>
+</div></div>
+<h2>Disclosures</h2>
+<p class="disc"><b>BR-2</b> Excluded from comp on both sides — closed for remodel: Lumiere Lakeview Arcade (LB-013, opened Thu Sep 1, 2016).</p>
+<p class="disc"><b>BR-2</b> In total sales but not in comp — fewer than 13 full fiscal periods of trading: Lumiere Cascade Commons (LB-023, opened Mon Dec 1, 2025), Lumiere Silver Mesa Mall (LB-025, opened Fri Aug 1, 2025).</p>
+<p class="disc"><b>BR-4</b> E-commerce comp is demand-based day-of (orders placed, not shipped). Demand $40.9K vs shipped $40.6K; the day matures after 3 days and the archive shows both without rewriting this flash.</p>
+<p class="disc"><b>BR-4</b> Settled return rate is computed on matured days only; Mon Jul 13, 2026 is not yet matured and is excluded from it.</p>
+<p class="disc"><b>BR-5</b> Every figure on this flash is computed once in the metric catalog and rendered to all four surfaces from one object. Email, Slack, print and the archive cannot disagree.</p>
+<div class="foot">Every figure computed once in the metric catalog and rendered to email, Slack, print and the archive from one object (BR-5). Generated from seeded data for the morning of Tuesday, July 14, 2026. Demo build.</div>
+</div></body></html>

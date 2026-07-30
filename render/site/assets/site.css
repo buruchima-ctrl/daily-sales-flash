@@ -1,0 +1,132 @@
+/* Daily Sales Flash — web archive.
+   Design tokens (PRD §8, the portfolio's language):
+     --gold  an INPUT        something the business asserted (a plan, a date)
+     --blue  a PRESENTATION  a figure being shown, not derived here
+     --calc  a CALCULATION   something this system worked out
+   Avenir display / Charter body / monospace data. No webfonts: every stack
+   falls back through faces that ship with the OS, so the page renders offline
+   and identically on a reviewer's machine. */
+:root{
+  --paper:#F7F5F0; --panel:#FFFFFF; --ink:#1E2B38; --soft:#55636F;
+  --rule:#DCD7CC; --rule-soft:#EDEAE3;
+  --gold:#8A6416; --gold-bg:#FBF4E4;
+  --blue:#2C5F8A; --blue-bg:#EAF1F7;
+  --calc:#2E7D5B; --calc-bg:#E9F3EE;
+  --bad:#A33A2A; --bad-bg:#FBEDEA; --good:#2E7D5B;
+  --display:'Avenir Next',Avenir,'Segoe UI',Helvetica,Arial,sans-serif;
+  --body:Charter,'Iowan Old Style',Georgia,'Times New Roman',serif;
+  --data:ui-monospace,'SF Mono',Menlo,Consolas,'Courier New',monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);
+  font-size:16px;line-height:1.55;}
+a{color:var(--blue);text-decoration:none;border-bottom:1px solid rgba(44,95,138,.35);}
+a:hover{border-bottom-color:var(--blue)}
+.wrap{max-width:960px;margin:0 auto;padding:20px 16px 64px;}
+.wrap.narrow{max-width:760px}
+
+header.top{border-bottom:2px solid var(--ink);padding-bottom:12px;margin-bottom:18px;}
+.eyebrow{font-family:var(--display);font-size:11px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--soft);}
+h1{font-family:var(--display);font-size:30px;font-weight:600;margin:6px 0 0;
+  line-height:1.15;letter-spacing:-.01em;}
+.meta{font-family:var(--data);font-size:12px;color:var(--soft);margin-top:6px;}
+.crumbs{font-family:var(--display);font-size:12px;color:var(--soft);margin-bottom:14px;}
+.crumbs a{border-bottom:none}
+
+h2{font-family:var(--display);font-size:11px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--soft);font-weight:600;
+  border-top:1px solid var(--rule);padding-top:12px;margin:26px 0 10px;}
+
+.tiles{display:flex;flex-wrap:wrap;gap:12px;margin:4px 0 18px;}
+.tile{flex:1 1 190px;background:var(--panel);border:1px solid var(--rule);
+  padding:12px 14px;}
+.tile .v{font-family:var(--data);font-size:27px;font-weight:600;line-height:1.15;
+  font-variant-numeric:tabular-nums;padding-top:2px;}
+.tile .s{font-family:var(--data);font-size:11px;color:var(--soft);padding-top:3px;}
+.bad{color:var(--bad)} .good{color:var(--good)} .calc{color:var(--calc)}
+.gold{color:var(--gold)} .blue{color:var(--blue)}
+
+.band{border-left:3px solid var(--gold);background:var(--gold-bg);
+  padding:10px 12px;margin:0 0 10px;font-size:14px;}
+.band.alert{border-left-color:var(--bad);background:var(--bad-bg)}
+.band.note{border-left-color:var(--blue);background:var(--blue-bg)}
+.band.calcband{border-left-color:var(--calc);background:var(--calc-bg)}
+.band .t{font-family:var(--display);font-size:11px;letter-spacing:.1em;
+  text-transform:uppercase;font-weight:700;display:block;}
+.band .t.g{color:var(--gold)} .band .t.r{color:var(--bad)}
+.band .t.b{color:var(--blue)} .band .t.c{color:var(--calc)}
+
+.narr{font-size:17px;line-height:1.6;margin:2px 0 14px;}
+
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;}
+table{width:100%;border-collapse:collapse;font-size:14px;background:var(--panel);}
+th{font-family:var(--display);font-size:10px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--soft);font-weight:600;text-align:right;
+  padding:6px 8px;border-bottom:1px solid var(--rule);white-space:nowrap;}
+th:first-child{text-align:left}
+td{font-family:var(--data);font-variant-numeric:tabular-nums;text-align:right;
+  padding:6px 8px;border-bottom:1px solid var(--rule-soft);white-space:nowrap;}
+td:first-child{font-family:var(--body);text-align:left;white-space:normal}
+tr:last-child td{border-bottom:1px solid var(--rule)}
+th[title],td[title],.hint{cursor:help;border-bottom-style:dashed}
+
+ul.focus{list-style:none;margin:0;padding:0;}
+ul.focus li{padding:8px 0;border-bottom:1px solid var(--rule-soft);font-size:15px;}
+ul.focus .mk{font-weight:700;padding-right:4px;}
+ul.focus .rc{display:block;font-family:var(--data);font-size:12px;
+  color:var(--soft);padding-left:18px;}
+.recon{font-family:var(--data);font-size:12px;color:var(--calc);padding-top:8px;}
+
+/* fiscal-week grid — the index's navigation (PRD §8: weeks, not months) */
+.periodhead{font-family:var(--display);font-size:12px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--gold);font-weight:700;margin:22px 0 6px;}
+table.cal{table-layout:fixed;font-size:13px;}
+table.cal th{text-align:center}
+table.cal th.wk{text-align:left;width:120px}
+table.cal td{text-align:left;vertical-align:top;padding:0;white-space:normal;
+  border:1px solid var(--rule-soft);height:74px;}
+table.cal td.wk{font-family:var(--data);font-size:11px;color:var(--soft);
+  padding:6px 8px;border-left:none;vertical-align:middle;}
+.cell{display:block;padding:6px 7px;height:100%;border-bottom:none;}
+a.cell:hover{background:var(--blue-bg);border-bottom:none}
+.cell .dnum{font-family:var(--data);font-size:11px;color:var(--soft);}
+.cell .amt{font-family:var(--data);font-size:14px;font-weight:600;
+  font-variant-numeric:tabular-nums;display:block;padding-top:2px;color:var(--ink);}
+.cell .cmp{font-family:var(--data);font-size:11px;display:block;}
+.cell.empty{background:repeating-linear-gradient(135deg,transparent,
+  transparent 5px,var(--rule-soft) 5px,var(--rule-soft) 6px);}
+.flag{display:inline-block;font-family:var(--display);font-size:9px;
+  letter-spacing:.06em;text-transform:uppercase;padding:0 3px;margin-top:2px;
+  border:1px solid var(--gold);color:var(--gold);}
+.flag.r{border-color:var(--bad);color:var(--bad)}
+.flag.b{border-color:var(--blue);color:var(--blue)}
+
+.cards{display:flex;flex-wrap:wrap;gap:10px;}
+.card{flex:1 1 260px;background:var(--panel);border:1px solid var(--rule);
+  padding:11px 13px;font-size:13px;}
+.card .n{font-family:var(--display);font-size:11px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--soft);font-weight:600;}
+.card .h{font-family:var(--display);font-size:15px;font-weight:600;margin:2px 0 4px;}
+
+.disc{font-size:13px;line-height:1.5;margin:0 0 7px;}
+.disc b{font-family:var(--data);color:var(--gold);font-weight:600;
+  font-size:12px;padding-right:3px;}
+.key{font-family:var(--data);font-size:12px;line-height:1.5;color:var(--soft);
+  margin:0 0 5px;}
+.key b{color:var(--ink);font-weight:600}
+.legend{font-family:var(--data);font-size:11px;color:var(--soft);
+  border-top:1px solid var(--rule);padding-top:8px;margin-top:8px;}
+.legend i{font-style:normal;font-weight:700}
+footer{font-family:var(--data);font-size:11px;color:var(--soft);
+  border-top:1px solid var(--rule);margin-top:26px;padding-top:10px;}
+.pager{display:flex;justify-content:space-between;font-family:var(--display);
+  font-size:13px;margin:18px 0 0;gap:12px;}
+.surfaces{font-family:var(--display);font-size:12px;color:var(--soft);margin-top:8px}
+
+@media (max-width:620px){
+  h1{font-size:24px}
+  .tile .v{font-size:22px}
+  table.cal{min-width:640px}
+}
