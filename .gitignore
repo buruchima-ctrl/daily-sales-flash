@@ -10,3 +10,7 @@ __pycache__/
 
 # here.now local state (contains claim tokens)
 .herenow/
+
+# Third-party source documents — not for the public repo
+BRD - DTC DSF Omni Metrics v3.docx
+~$*.docx
